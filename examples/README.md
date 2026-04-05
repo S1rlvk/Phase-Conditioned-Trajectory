@@ -1,6 +1,6 @@
 # Examples
 
-Run these from the **repository root** after `pip install -e .` (or set `PYTHONPATH=src`).
+Run these from the **repository root** after `pip install -e .` (or set `PYTHONPATH=src`). Clone: `https://github.com/S1rlvk/Phase-Conditioned-Trajectory`.
 
 ## 1. Hand trajectory comparison (raw vs standard Kalman vs phase-conditioned)
 
