@@ -1,0 +1,169 @@
+[
+  {
+    "raw_jitter_x": 0.19033134090909085,
+    "raw_jitter_y": 0.21473034090909093,
+    "raw_jitter_xy": 0.2025308409090909,
+    "raw_var_x": 0.06146072127929494,
+    "raw_var_y": 0.09801774611193131,
+    "fidelity_jitter_x": 0.1678159486384986,
+    "fidelity_jitter_y": 0.18332409401815852,
+    "fidelity_jitter_xy": 0.17557002132832855,
+    "fidelity_var_x": 0.04252874107342611,
+    "fidelity_var_y": 0.06453301940113519,
+    "phase_cond_jitter_x": 0.1240115506282092,
+    "phase_cond_jitter_y": 0.15547933233279476,
+    "phase_cond_jitter_xy": 0.139745441480502,
+    "phase_cond_var_x": 0.024521713708400162,
+    "phase_cond_var_y": 0.05850086480773451,
+    "fidelity_jitter_reduction_pct": 13.311957556560062,
+    "phase_cond_jitter_reduction_pct": 31.000414132863398,
+    "phase_cond_vs_fidelity_improvement_pct": 20.404724893683312,
+    "per_phase": {
+      "IDLE": {
+        "raw_jitter": 0.214154,
+        "fidelity_jitter": 0.173288,
+        "phase_cond_jitter": 0.101328,
+        "fidelity_reduction_pct": 19.1,
+        "phase_cond_reduction_pct": 52.7
+      },
+      "REACH": {
+        "raw_jitter": 0.138149,
+        "fidelity_jitter": 0.218518,
+        "phase_cond_jitter": 0.103075,
+        "fidelity_reduction_pct": -58.2,
+        "phase_cond_reduction_pct": 25.4
+      }
+    },
+    "video_id": "00000",
+    "n_frames": 45,
+    "occlusion_frames": 9
+  },
+  {
+    "raw_jitter_x": 0.17998379545454546,
+    "raw_jitter_y": 0.24803795454545458,
+    "raw_jitter_xy": 0.21401087500000002,
+    "raw_var_x": 0.05684925889955114,
+    "raw_var_y": 0.10396493869767355,
+    "fidelity_jitter_x": 0.14806446026361797,
+    "fidelity_jitter_y": 0.20040606609212255,
+    "fidelity_jitter_xy": 0.17423526317787025,
+    "fidelity_var_x": 0.036144037429455024,
+    "fidelity_var_y": 0.06626876692247018,
+    "phase_cond_jitter_x": 0.11120023732895423,
+    "phase_cond_jitter_y": 0.16180520264988194,
+    "phase_cond_jitter_xy": 0.1365027199894181,
+    "phase_cond_var_x": 0.02226949218143036,
+    "phase_cond_var_y": 0.04370136588212897,
+    "fidelity_jitter_reduction_pct": 18.58579000816186,
+    "phase_cond_jitter_reduction_pct": 36.216923560815275,
+    "phase_cond_vs_fidelity_improvement_pct": 21.656088727534105,
+    "per_phase": {
+      "IDLE": {
+        "raw_jitter": 0.224554,
+        "fidelity_jitter": 0.166475,
+        "phase_cond_jitter": 0.11152,
+        "fidelity_reduction_pct": 25.9,
+        "phase_cond_reduction_pct": 50.3
+      }
+    },
+    "video_id": "00001",
+    "n_frames": 45,
+    "occlusion_frames": 5
+  },
+  {
+    "raw_jitter_x": 0.1658530681818182,
+    "raw_jitter_y": 0.20308993181818183,
+    "raw_jitter_xy": 0.1844715,
+    "raw_var_x": 0.04881789876917924,
+    "raw_var_y": 0.06776185809410899,
+    "fidelity_jitter_x": 0.11954664672483574,
+    "fidelity_jitter_y": 0.14595738736405137,
+    "fidelity_jitter_xy": 0.13275201704444356,
+    "fidelity_var_x": 0.02484477445924237,
+    "fidelity_var_y": 0.03250281520564238,
+    "phase_cond_jitter_x": 0.0836359165699819,
+    "phase_cond_jitter_y": 0.10754881919532977,
+    "phase_cond_jitter_xy": 0.09559236788265583,
+    "phase_cond_var_x": 0.012720851378331744,
+    "phase_cond_var_y": 0.019344529518068188,
+    "fidelity_jitter_reduction_pct": 28.03657093673356,
+    "phase_cond_jitter_reduction_pct": 48.18041384026485,
+    "phase_cond_vs_fidelity_improvement_pct": 27.991777442708976,
+    "per_phase": {
+      "IDLE": {
+        "raw_jitter": 0.227088,
+        "fidelity_jitter": 0.161062,
+        "phase_cond_jitter": 0.093861,
+        "fidelity_reduction_pct": 29.1,
+        "phase_cond_reduction_pct": 58.7
+      }
+    },
+    "video_id": "00002",
+    "n_frames": 45,
+    "occlusion_frames": 4
+  },
+  {
+    "raw_jitter_x": 0.15268822727272727,
+    "raw_jitter_y": 0.2292051590909091,
+    "raw_jitter_xy": 0.19094669318181817,
+    "raw_var_x": 0.04742365301870868,
+    "raw_var_y": 0.08710255959050982,
+    "fidelity_jitter_x": 0.1123746099970587,
+    "fidelity_jitter_y": 0.1979366942900573,
+    "fidelity_jitter_xy": 0.155155652143558,
+    "fidelity_var_x": 0.02444517113484933,
+    "fidelity_var_y": 0.056031732452919696,
+    "phase_cond_jitter_x": 0.09681856720153302,
+    "phase_cond_jitter_y": 0.18250986166805847,
+    "phase_cond_jitter_xy": 0.13966421443479574,
+    "phase_cond_var_x": 0.01672612604011939,
+    "phase_cond_var_y": 0.05406338232850932,
+    "fidelity_jitter_reduction_pct": 18.7439962650624,
+    "phase_cond_jitter_reduction_pct": 26.856960910127725,
+    "phase_cond_vs_fidelity_improvement_pct": 9.984449483302605,
+    "per_phase": {
+      "IDLE": {
+        "raw_jitter": 0.22217,
+        "fidelity_jitter": 0.184658,
+        "phase_cond_jitter": 0.140945,
+        "fidelity_reduction_pct": 16.9,
+        "phase_cond_reduction_pct": 36.6
+      }
+    },
+    "video_id": "00003",
+    "n_frames": 45,
+    "occlusion_frames": 5
+  },
+  {
+    "raw_jitter_x": 0.1857935227272727,
+    "raw_jitter_y": 0.22016590909090902,
+    "raw_jitter_xy": 0.20297971590909086,
+    "raw_var_x": 0.05701189854288584,
+    "raw_var_y": 0.08160445544198967,
+    "fidelity_jitter_x": 0.13490244251002578,
+    "fidelity_jitter_y": 0.16642478156300403,
+    "fidelity_jitter_xy": 0.1506636120365149,
+    "fidelity_var_x": 0.028033992127329953,
+    "fidelity_var_y": 0.04496830959640565,
+    "phase_cond_jitter_x": 0.08860502996736166,
+    "phase_cond_jitter_y": 0.110005579478313,
+    "phase_cond_jitter_xy": 0.09930530472283733,
+    "phase_cond_var_x": 0.011974705803444861,
+    "phase_cond_var_y": 0.018917827707646526,
+    "fidelity_jitter_reduction_pct": 25.77405512578751,
+    "phase_cond_jitter_reduction_pct": 51.076242136769224,
+    "phase_cond_vs_fidelity_improvement_pct": 34.088063215443384,
+    "per_phase": {
+      "IDLE": {
+        "raw_jitter": 0.200041,
+        "fidelity_jitter": 0.156059,
+        "phase_cond_jitter": 0.09275,
+        "fidelity_reduction_pct": 22.0,
+        "phase_cond_reduction_pct": 53.6
+      }
+    },
+    "video_id": "00004",
+    "n_frames": 45,
+    "occlusion_frames": 1
+  }
+]

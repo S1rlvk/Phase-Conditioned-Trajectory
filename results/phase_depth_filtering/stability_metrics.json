@@ -1,0 +1,8 @@
+{
+  "raw_variance": 55280.57421875,
+  "filtered_variance": 5657.284574509649,
+  "variance_reduction_pct": 89.76623406239725,
+  "raw_jitter": 188.31463623046875,
+  "filtered_jitter": 56.54010506047133,
+  "jitter_reduction_pct": 69.97572456807087
+}
